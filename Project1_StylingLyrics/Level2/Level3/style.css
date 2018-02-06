@@ -1,0 +1,77 @@
+body {
+	background-color: #a6a6a6;
+}
+
+.three {
+	color: white;
+	padding-top: 220px;
+	padding-bottom: 500px;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	line-height: 0.5px;
+}
+
+.three .uno,
+.three .tres {
+	font-size: 50px;
+}
+
+.three .dos {
+	font-size: 100px;
+}
+
+.four,
+.five,
+.six {
+	color: white;
+	padding-top: 220px;
+	padding-bottom: 400px;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	line-height: 0.5px;
+}
+
+.four {
+	font-size: 70px;
+}
+
+.five .uno {
+	font-size: 80px;
+}
+
+.five .dos {
+	font-size: 80px;
+}
+
+.five .tres {
+	font-size: 43px;
+}
+
+.six{
+	padding-bottom: 300px;
+}
+
+.six .uno {
+	font-size: 70px;
+}
+
+.six .dos {
+	font-size: 100px;
+}
+
+.six .tres {
+	font-size: 40px;
+}
+
+.six .cuatro {
+	font-size: 40px;
+}
+
+a {
+	font-size: 60px;
+	color: white;
+	text-decoration: none;
+}
+
+
+

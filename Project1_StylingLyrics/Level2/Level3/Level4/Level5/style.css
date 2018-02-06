@@ -1,0 +1,36 @@
+body {
+	background-color: #a6a6a6;
+}
+
+.five {
+	color: white;
+	padding-top: 220px;
+	padding-bottom: 220px;
+	text-align: center;
+	font-family: 'Amatic SC', cursive;
+	line-height: 0.5px;
+}
+
+.five .tres,
+.five .uno {
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
+
+.five .uno {
+	font-size: 80px;
+}
+
+.five .dos {
+	font-size: 80px;
+}
+
+.five .tres {
+	font-size: 40px;
+}
+
+a {
+	font-size: 60px;
+	color: white;
+	text-decoration: none;
+}

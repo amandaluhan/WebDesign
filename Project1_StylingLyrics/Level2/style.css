@@ -1,0 +1,21 @@
+body {
+	background-color: lightblue; 
+}
+
+div {
+	font-family: 'Lobster', cursive;
+	color: white;	
+	font-size: 80px;
+	padding: 320px 0px 700px;
+	text-align: center;
+}
+
+.four {
+	padding-bottom: 300px;
+}
+
+.four a {
+	font-size: 60px;
+	color: white;
+	text-decoration: none;
+}

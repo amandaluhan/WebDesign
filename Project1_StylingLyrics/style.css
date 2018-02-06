@@ -1,0 +1,15 @@
+.line{
+
+	font-family: 'Amatic SC', cursive;
+	color: white;
+	font-size: 60px;
+	padding: 300px 0px;
+	text-align: center;
+	margin: 0px;
+	align-items: center;
+}
+
+a {
+	color: lightblue;
+	text-decoration: none;
+}
