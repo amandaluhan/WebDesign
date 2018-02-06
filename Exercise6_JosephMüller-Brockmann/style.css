@@ -1,0 +1,69 @@
+body {
+	background-color: #4da6ff;
+	font-family: 'Quicksand', sans-serif;
+}
+
+.greensquare .one,
+.greensquare .two,
+.greensquare .three {
+	width: 250px;
+	height: 250px;
+	background-color: #408000;
+	opacity: 0.7;
+	float: left;
+	margin: 5px;
+}
+
+.greensquare {
+	transform: rotate(45deg);
+	position: relative;
+	top: 250px;
+	left: 300px;
+}
+
+.bluesquare .one, 
+.bluesquare .two, 
+.bluesquare .three {
+	width: 350px;
+	height: 350px;
+	background-color: #3333cc;
+	opacity: 0.7;
+	margin: 10px;
+}
+
+.bluesquare {
+	transform: rotate(-45deg);
+	position: relative;
+	bottom: 330px;
+	left: 600px;
+}
+.text .one {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.text .two,
+.text .three,
+.text .four {
+	font-size: 50px;
+	font-weight: bold;
+	text-align: right;
+	position: relative;
+	right: 700px;
+}
+
+.text .five {
+	font-size: 18px;
+	position: relative;
+	left: 780px;
+	bottom: 330px;
+	width: 400px;
+}
+
+.text {
+	transform: rotate(45deg);
+	position: relative;
+	bottom: 520px;
+	right: 250px;
+}
