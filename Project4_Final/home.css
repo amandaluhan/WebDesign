@@ -50,14 +50,6 @@ html,body {
 	line-height: 900px;
 }
 
-.images {
-	margin: 0 auto;
-	padding: 0;
-	position: relative;
-	left: 653px;
-	z-index: 5px;
-}
-
 /*.stripeone {
 	float: left;
 	width: 20%;
@@ -76,6 +68,26 @@ html,body {
     padding: 0;
     background-color: #e6e6e6;
 }
+
+.bottomBar {
+	height: 200px;
+	border-top: 1px solid #D8D8D8;
+}
+
+.bottomBar .icons {
+	position: relative;
+	left: 650px;
+	top: 50px;
+}
+
+.bottomBar p {
+	text-align: center;
+	padding-top: 60px;
+	font-family: 'Merriweather', serif;
+	font-size: 10px;
+}
+
+
 
 
 

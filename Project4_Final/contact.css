@@ -52,7 +52,6 @@ html,body {
  }
 
  .email {
- 	font-family: 'Cormorant Garamond', serif;
  	color: black;
  	font-size: 60px;
  	padding-left: 150px;
@@ -80,6 +79,8 @@ html,body {
 	left: 150px;
 	z-index: 5px;
 }
+
+
 
 
 

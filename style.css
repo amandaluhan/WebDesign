@@ -1,0 +1,70 @@
+.header h1 {
+    font-size: 100px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0;
+    line-height: 600px;
+    padding-bottom: 200px;
+}
+
+.title {
+    border: 6px solid #D8D8D8;
+    padding: 10px;
+}
+
+.title:hover {
+    color: #ffb3cc;
+}
+
+.header a {
+    text-decoration: none;
+    color: #D8D8D8;
+}
+
+.headerTwo h6 {
+    font-size: 70px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.boxTwo {
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.titleTwo:hover {
+    color: #ffb3cc;
+}
+
+.headerTwo a {
+    text-decoration: none;
+    color: #D8D8D8;
+}
+
+.projects p {
+    text-align: center;
+}
+
+.projects a {
+	text-decoration: none;
+    color: #D8D8D8;
+    font-size: 70px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: lighter;
+}
+
+
+.projects {
+	padding: 300px 0px 300px 0px;
+}
+
+.projects a:hover {
+    color: #ffb3cc;
+}
+
+
+

@@ -66,8 +66,7 @@ html,body {
 }
 
 .name {
-    font-family: 'Cormorant Garamond', serif;
-    /*font-family: 'Playfair Display', serif;*/
+    font-family: 'Cormorant Garamond', serif; 
     font-size: 100px;
     color: black;
     font-weight: lighter;
@@ -109,6 +108,25 @@ html,body {
     margin-top: 10px;
     margin-left: 150px;
     margin-bottom: 200px;
+}
+
+.bottomBar {
+    height: 200px;
+    border-top: 1px solid #D8D8D8;
+}
+
+.bottomBar .icons {
+    position: relative;
+    left: 650px;
+    top: 50px;
+}
+
+.bottomBar p {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 70px;
+    font-family: 'Merriweather', serif;
+    font-size: 10px;
 }
 
 
