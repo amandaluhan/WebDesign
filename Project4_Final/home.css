@@ -39,13 +39,6 @@ html,body {
     background-color: #ffb3cc;
 }
 
-.mainbox {
-	width: 100px;
-	height: 100px;
-	background: white;
-	border-radius: 50px;
-}
-
 .header p {
 	font-size: 110px;
 	font-family: 'Poppins', sans-serif;
@@ -57,23 +50,37 @@ html,body {
 	line-height: 900px;
 }
 
-/*.stripeone {
-	float: left;
-	width: 20%;
+.whitecircle {
+	width: 200px;
+	height: 200px;
+	background: white;
+	border-radius: 100px;
+	position: absolute;
+	left: 620px;
+	bottom: 320px;
 }
 
-.stripeOne img {
-	width: 10%;
-	padding: 100px 0px 500px 300px;
-	float: left;
-}*/
+.initials {
+	color: #ffb3cc;
+	font-size: 80px;
+	position: relative;
+	bottom: 410px;
+	letter-spacing: 4px;
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+}
+
+.initials a {
+	text-decoration: none;
+	color: #ffb3cc;
+}
 
 .grayBox {
     width: 100%;
     height: 400px;
     margin: 0px; 
     padding: 0;
-    background-color: #e6e6e6;
+    background-color: white;
 }
 
 .bottomBar {
