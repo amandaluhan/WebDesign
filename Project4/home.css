@@ -1,0 +1,87 @@
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.topBar {
+	width: 100%;
+    height: 60px;
+    margin: 0px; 
+    background-color: white;
+    position: fixed;
+    z-index: 10;
+    border-bottom: 1px solid #D8D8D8;
+}
+
+.topBar a {
+	text-decoration: none;
+	color: black;
+}
+
+.links {
+	text-align: right;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding: 25px 50px 0px 50px;
+	word-spacing: 50px;
+	font-size: 12px;
+}
+
+.links a:hover {
+    color: #ffb3cc;
+}
+
+.mainBox {
+    width: 100%;
+    height: 630px;
+    margin: 0px; 
+    background-color: #ffb3cc;
+}
+
+.header p {
+	font-size: 80px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	color: black;
+	margin: 0;
+	padding: 0;
+	line-height: 900px;
+}
+
+.images {
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	left: 653px;
+	z-index: 5px;
+}
+
+/*.stripeone {
+	float: left;
+	width: 20%;
+}
+
+.stripeOne img {
+	width: 10%;
+	padding: 100px 0px 500px 300px;
+	float: left;
+}*/
+
+.grayBox {
+    width: 100%;
+    height: 400px;
+    margin: 0px; 
+    padding: 0;
+    background-color: #e6e6e6;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,101 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#image{
+	width: 800px;
+	float: left;
+	margin: 10px;
+	overflow: auto;
+}
+
+
+.redlips {
+	height: 500px;
+	padding: 80px 0px 80px 200px;
+	padding-top: 200px; 
+}
+
+.powder img {
+    width: 70%;
+    height: auto;
+}
+
+.pinklips img {
+    width: 70%;
+    height: auto;
+}
+
+.powder {
+	height: 500px;
+	padding: 70px 0px 200px 180px;
+}
+
+.pinklips {
+	height: 500px;
+	padding: 90px 0px 100px 200px;
+}
+
+#text {
+	font-size: 30px;
+	padding: 300px 50px 500px 0px;
+	float: right;
+}
+
+.slogan-two {
+	padding-top: 550px;
+}
+
+.slogan-three {
+	padding-top: 550px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 94px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+#text a {
+	text-decoration: none;
+	color: black;
+}
+
+#text .slogan-one a:hover {
+    color: #b30000;
+}
+
+#text .slogan-two a:hover {
+    color: #e6cbb3;
+}
+
+#text .slogan-three a:hover {
+    color: #ec9393;
+}
+
+
+
+
+
+
+
