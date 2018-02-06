@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+}
+
+.blacksquare {
+	width: 50%;
+	height: 700px;
+	background-color: black;
+}
+
+.text {
+	width: 30%;
+	text-align: center;
+	padding-left: 130px;
+	position: relative;
+	bottom: 500px;
+	color: white;
+
+}
+
+.one { 
+	font-size: 16px;
+	position: relative;
+	/*left: 180px;*/
+}
+
+.two {
+	font-size: 40px;
+	/*left: 90px;*/
+}
+
+.three {
+	font-size: 20px;
+	font-style: italic;
+}
+
+.image img {
+	width: 50%;
+	height: 700px;
+	position: relative;
+	left: 720px;
+	bottom: 980px;
+}
+
