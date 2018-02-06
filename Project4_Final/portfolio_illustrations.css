@@ -12,6 +12,7 @@ html,body {
     background-color: white;
     position: fixed;
     border-bottom: 1px solid #D8D8D8;
+    z-index: 10;
 }
 
 .topBar a {
@@ -42,15 +43,17 @@ h1 {
 }
 
 .portfolioImages {
-    margin: 10px;
+    margin: 0;
     padding-left: 150px;
 }
 
 .portfolioImages img {
     height: 450px;
+    margin: 10px;
+    z-index: 5;
 }
 
-.portfolioImages img:hover {
+/*.portfolioImages img:hover {
  opacity: .6;
  filter: alpha(opacity=60);
- }
+ }*/
